@@ -1,6 +1,6 @@
 ### 👋 hello! I'm tim c
 
-digital analyst / pseudo product owner during the day, "dev" at night
+digital analyst / product owner during the day, "dev" at night
 
 
 ### 📫 how to reach me
