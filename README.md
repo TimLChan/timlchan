@@ -7,5 +7,5 @@ building scalable banking products as a senior analyst / product owner during th
 
 ### 📫 how to reach me
 - github: (you're here)
-- twitter: [@timlchan](https://twitter.com/TimLChan)
 - bluesky: [@1004.bsky.social‬](https://1004.bsky.social)
+- twitter: [@timlchan](https://twitter.com/TimLChan)
